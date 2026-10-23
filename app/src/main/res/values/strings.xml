@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RAM Cleaner Pro</string>
+    <string name="clean_button">Bersihkan RAM &amp; Cache</string>
+    <string name="cleaning">Membersihkan...</string>
+    <string name="total_ram">Total RAM</string>
+    <string name="available_ram">Tersedia</string>
+    <string name="used_ram">Digunakan</string>
+    <string name="running_apps">Proses Aktif</string>
+    <string name="cache_cleaned">Cache dibersihkan: %1$s</string>
+    <string name="process_killed">Proses dihentikan: %1$d</string>
+</resources>

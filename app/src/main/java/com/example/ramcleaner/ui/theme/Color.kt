@@ -1,0 +1,3 @@
+package com.example.ramcleaner.ui.theme; import androidx.compose.ui.graphics.Color
+val DarkColorScheme = darkColorScheme(primary=Color(0xFF00E5FF), primaryContainer=Color(0xFF006064), secondary=Color(0xFFB388FF), secondaryContainer=Color(0xFF4A148C), tertiary=Color(0xFFFF80AB), tertiaryContainer=Color(0xFF880E4F), surface=Color(0xFF121212), background=Color.Black, onSurface=Color.White, onSurfaceVariant=Color(0xFFB0BEC5))
+val LightColorScheme = lightColorScheme(primary=Color(0xFF006064), primaryContainer=Color(0xFF00E5FF), secondary=Color(0xFF4A148C), secondaryContainer=Color(0xFFB388FF), tertiary=Color(0xFF880E4F), tertiaryContainer=Color(0xFFFF80AB), surface=Color.White, background=Color(0xFFFAFAFA), onSurface=Color.Black, onSurfaceVariant=Color(0xFF37474F))

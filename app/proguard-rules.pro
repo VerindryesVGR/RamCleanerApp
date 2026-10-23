@@ -1,0 +1,2 @@
+-keepclassmembers class * extends androidx.lifecycle.ViewModel { <init>(...); }
+-keep class com.example.ramcleaner.** { *; }

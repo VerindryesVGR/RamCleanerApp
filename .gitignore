@@ -1,0 +1,1 @@
+.gradle/ build/ local.properties *.log .idea/ *.iml *.jks *.keystore key.properties app/build/outputs/ *.apk *.aab
